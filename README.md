@@ -11,3 +11,9 @@ This project provides a header file that can be included into your application w
 # [breakpad](https://chromium.googlesource.com/breakpad/breakpad)
 
 A set of client and server components which implement a crash-reporting system.
+
+# [abseil](https://github.com/abseil/abseil-cpp)
+
+Abseil is an open-source collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
+
+https://github.com/abseil/abseil-cpp/pull/889
