@@ -1,7 +1,7 @@
 basically, we base on the [official Linux instructions](https://chromium.googlesource.com/chromium/src/+/master/docs/linux/build_instructions.md)
 with some changes specific for e2k.
 
-# depot_tools
+# [depot_tools](https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/depot_tools.html)
 
 ```
 git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
