@@ -71,5 +71,23 @@ index 06fdbf29..13534c5c 100755
 +  rtcrun "${CLIENT}" selfupdate -version-file "${VERSION_FILE}" -service-url "${CIPD_BACKEND}"
  }
  ```
+
+## [gn](https://gn.googlesource.com/gn/)
  
- 
+it's required to use latest gn with [e2k support](https://gn-review.googlesource.com/c/gn/+/10980/2).
+
+clone the repo:
+```
+git clone https://gn.googlesource.com/gn
+```
+
+build:
+```
+python build/gen.py
+ninja -C out
+```
+
+add to the PATH (before the depot_tools!):
+```
+export PATH=$PATH:$HOME/gn/out
+```
