@@ -8,6 +8,8 @@ https://gn-review.googlesource.com/c/gn/+/10980/2 (merged)
 
 This project provides a header file that can be included into your application whenever you need to make direct system calls.
 
+https://chromium-review.googlesource.com/c/linux-syscall-support/+/2652675
+
 # [breakpad](https://chromium.googlesource.com/breakpad/breakpad)
 
 A set of client and server components which implement a crash-reporting system.
