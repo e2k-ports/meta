@@ -18,7 +18,7 @@ A set of client and server components which implement a crash-reporting system.
 
 Abseil is an open-source collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
 
-https://github.com/abseil/abseil-cpp/pull/889
+https://github.com/abseil/abseil-cpp/pull/889 (merged)
 
 # [gperftools](https://github.com/gperftools/gperftools)
 
