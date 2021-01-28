@@ -92,7 +92,7 @@ add to the PATH (before the depot_tools!):
 export PATH=$PATH:$HOME/gn/out
 ```
 
-== [clang](https://chromium.googlesource.com/chromium/src/+/master/docs/clang.md) ==
+# [clang](https://chromium.googlesource.com/chromium/src/+/master/docs/clang.md)
 
 Chromium ships with bundled clang. As there is no e2k clang yet, there is a trick to make Chromium build with MCST LCC instead.
 
