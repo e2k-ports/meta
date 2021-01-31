@@ -24,4 +24,4 @@ https://github.com/abseil/abseil-cpp/pull/889 (merged)
 
 gperftools is a collection of a high-performance multi-threaded malloc() implementation, plus some pretty nifty performance analysis tools.
 
-https://github.com/gperftools/gperftools/pull/1243
+https://github.com/gperftools/gperftools/pull/1243 (merged)
