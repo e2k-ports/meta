@@ -25,3 +25,9 @@ https://github.com/abseil/abseil-cpp/pull/889 (merged)
 gperftools is a collection of a high-performance multi-threaded malloc() implementation, plus some pretty nifty performance analysis tools.
 
 https://github.com/gperftools/gperftools/pull/1243 (merged)
+
+# [boringssl](https://boringssl.googlesource.com/boringssl/)
+
+BoringSSL is a fork of OpenSSL that is designed to meet Google's needs.
+
+https://boringssl-review.googlesource.com/c/boringssl/+/45364
