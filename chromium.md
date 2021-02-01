@@ -233,3 +233,12 @@ status = subprocess.call(args)
 sys.exit(status)
 ```
 MCST LCC doesn't support a lot of flags, so wrapper filters all them out.
+
+
+# java
+
+Chromium includes **java** binary (x86_64 ELF). the trick is to replace it with native one inside `third_party/jdk/current/bin`:
+```
+mv java java.bak
+ln -s $(which java) java
+```
