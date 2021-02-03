@@ -31,3 +31,9 @@ https://github.com/gperftools/gperftools/pull/1243 (merged)
 BoringSSL is a fork of OpenSSL that is designed to meet Google's needs.
 
 https://boringssl-review.googlesource.com/c/boringssl/+/45364
+
+# [LLVM](https://llvm.org/)
+
+The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+
+https://reviews.llvm.org/D95940
