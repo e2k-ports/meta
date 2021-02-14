@@ -37,3 +37,9 @@ https://boringssl-review.googlesource.com/c/boringssl/+/45364
 The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 https://reviews.llvm.org/D95940
+
+# [benchmark](https://github.com/google/benchmark)
+
+A library to benchmark code snippets, similar to unit tests.
+
+https://github.com/google/benchmark/pull/1091
