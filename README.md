@@ -30,7 +30,7 @@ gperftools is a collection of a high-performance multi-threaded malloc() impleme
 
 BoringSSL is a fork of OpenSSL that is designed to meet Google's needs.
 
-https://boringssl-review.googlesource.com/c/boringssl/+/45364
+https://boringssl-review.googlesource.com/c/boringssl/+/45364 (not going to be merged :( )
 
 # [LLVM](https://llvm.org/)
 
